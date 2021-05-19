@@ -4,8 +4,6 @@ PSI VIS SIG Webinar
 19 May 2021  
 [Slides](http://bit.ly/ggplot2-vissig)
 
-----
-
 ## Synopsis
 
 In this talk we'll introduce the Grammar of Graphics, which allows you to compose graphs by combining independent components, and the implementation of this theory in R -- the ggplot2 package. We will describe the basics of building plots with ggplot2 and touch on a few approaches for customizing the plots. We will also highlight a few packages that are built to supplement ggplot2.
