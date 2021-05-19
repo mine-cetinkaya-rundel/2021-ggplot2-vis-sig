@@ -178,7 +178,7 @@ div.my-footer span {
     font-size: 20px;
     position: absolute;
     bottom: 10px;
-    left: 30px;
+    left: 10px;
     color: #8A8A8A;
 }
 div.my-footer a {
@@ -231,19 +231,6 @@ img, video, iframe {
   top: 10%;
   left: 65%;
   border: 1px solid #ddd;
-}
-
-/* Logo */
-.remark-slide-content:after {
-    content: "";
-    position: absolute;
-    bottom: 5px;
-    right: 1100px;
-    height: 60px;
-    width: 81px;
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-image: url("dsbox-hex.png");
 }
 
 /* Media */

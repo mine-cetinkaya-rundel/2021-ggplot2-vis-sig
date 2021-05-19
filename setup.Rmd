@@ -58,7 +58,7 @@ layout: true
   
 <div class="my-footer">
 <span>
-<a href="https://datasciencebox.org" target="_blank">datasciencebox.org</a>
+<a href="http://bit.ly/ggplot2-vissig" target="_blank">`r emo::ji('link')` bit.ly/ggplot2-vissig</a>
 </span>
 </div> 
 

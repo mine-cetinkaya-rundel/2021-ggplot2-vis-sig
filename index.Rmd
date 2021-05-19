@@ -1,6 +1,7 @@
 ---
 title: "grammar of graphics with ggplot2"
 author: "mine çetinkaya-rundel"
+date: "`r emo::ji('link')` [bit.ly/ggplot2-vissig](http://bit.ly/ggplot2-vissig)"
 output:
   xaringan::moon_reader:
     css: ["xaringan-themer.css", "slides.css"]
@@ -1065,6 +1066,8 @@ class: middle, center
 thank you
 ]
 
-[some link](www.google.com)
+.large[
+`r emo::ji('link')` [bit.ly/ggplot2-vissig](http://bit.ly/ggplot2-vissig)
+]
 
-[@minebocek](https://twitter.com/minebocek)
+`r emo::ji('bird')` [@minebocek](https://twitter.com/minebocek)

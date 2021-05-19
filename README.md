@@ -2,7 +2,7 @@
 
 PSI VIS SIG Webinar
 19 May 2021
-[Slides]()
+[Slides](http://bit.ly/ggplot2-vissig)
 
 ----
 
