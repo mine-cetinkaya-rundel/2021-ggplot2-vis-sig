@@ -1,7 +1,7 @@
 # Grammar of Graphics – theory to implementation
 
-PSI VIS SIG Webinar
-19 May 2021
+PSI VIS SIG Webinar  
+19 May 2021  
 [Slides](http://bit.ly/ggplot2-vissig)
 
 ----
